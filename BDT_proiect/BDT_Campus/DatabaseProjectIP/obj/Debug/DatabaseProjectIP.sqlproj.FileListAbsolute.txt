@@ -1,0 +1,6 @@
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\DatabaseProjectIP\bin\Debug\DatabaseProjectIP.dacpac
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\DatabaseProjectIP\bin\Debug\DatabaseProjectIP.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\DatabaseProjectIP\bin\Debug\DatabaseProjectIP.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\DatabaseProjectIP\obj\Debug\DatabaseProjectIP.sqlprojAssemblyReference.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\DatabaseProjectIP\obj\Debug\DatabaseProjectIP.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\DatabaseProjectIP\obj\Debug\DatabaseProjectIP.pdb

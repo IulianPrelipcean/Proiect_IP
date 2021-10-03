@@ -1,0 +1,11 @@
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\ConexiuneBD\bin\Debug\ConexiuneBD.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\ConexiuneBD\bin\Debug\ConexiuneBD.pdb
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.csproj.CoreCompileInputs.cache
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\ConexiuneBD\bin\Debug\ConexiuneBD.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\ConexiuneBD\bin\Debug\ConexiuneBD.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.csprojAssemblyReference.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\ConexiuneBD\obj\Debug\ConexiuneBD.pdb

@@ -1,0 +1,66 @@
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csprojAssemblyReference.cache
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_bloc.resources
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Properties.Resources.resources
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.GenerateResource.cache
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.CoreCompileInputs.cache
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe.config
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.pdb
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.exe
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.pdb
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Manager.resources
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_verif.resources
+D:\Anul 3\BD\BDT\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Administrator.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe.config
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.pdb
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csprojAssemblyReference.cache
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Administrator.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_bloc.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_verif.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Manager.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.RecuperareParola.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Properties.Resources.resources
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.GenerateResource.cache
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.CoreCompileInputs.cache
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.exe
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.pdb
+D:\Anul 3\Semestrul 2\IP-main\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.ActualizareParola.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe.config
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.pdb
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csprojAssemblyReference.cache
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.ActualizareParola.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Administrator.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_bloc.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_verif.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Manager.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.RecuperareParola.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Properties.Resources.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.GenerateResource.cache
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.CoreCompileInputs.cache
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.exe
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.pdb
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Cont_info.resources
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\ConexiuneBD.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\ConexiuneBD.pdb
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.CopyComplete
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe.config
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.exe
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\BDT_Campus.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\ConexiuneBD.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\bin\Debug\ConexiuneBD.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csprojAssemblyReference.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.ActualizareParola.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Administrator.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Cont_info.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_bloc.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Log_verif.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Manager.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.RecuperareParola.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.Properties.Resources.resources
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.GenerateResource.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.csproj.CopyComplete
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.exe
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\BDT_Campus\obj\Debug\BDT_Campus.pdb

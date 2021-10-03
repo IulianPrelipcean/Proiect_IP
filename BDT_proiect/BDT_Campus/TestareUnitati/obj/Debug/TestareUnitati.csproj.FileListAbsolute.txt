@@ -1,0 +1,36 @@
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.csprojAssemblyReference.cache
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.csproj.CoreCompileInputs.cache
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\TestareUnitati.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\TestareUnitati.pdb
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\BDT_Campus.exe
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\BDT_Campus.pdb
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\BDT_Campus.exe.config
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.csproj.CopyComplete
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.dll
+C:\Users\Miha\Desktop\AV\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\TestareUnitati.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\TestareUnitati.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\BDT_Campus.exe
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\ConexiuneBD.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\BDT_Campus.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\BDT_Campus.exe.config
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\bin\Debug\ConexiuneBD.pdb
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.csprojAssemblyReference.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.csproj.CopyComplete
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.dll
+E:\Facultate\Anul III\Semestrul II\Ingineria Programarii\Proiect\repo_IP_2\IP_ultim\IP\BDT_proiect\BDT_Campus\TestareUnitati\obj\Debug\TestareUnitati.pdb
